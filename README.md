@@ -61,7 +61,7 @@ python Black_Ninja.py
 
 ## 🖥 Screenshots
 
-![Black_Ninja]("Screenshot From 2026-04-13 14-08-05.png")
+![Black_Ninja](Black-Ninja.png)
 
 ---
 
