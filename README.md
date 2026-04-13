@@ -1,4 +1,4 @@
-# 🔥 Black_Ninja — Detection Research Tool  
+# Black_Ninja 
 **Powered by the PrimeSec**  
 Developed by **Cyber Ninja**
 
